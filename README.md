@@ -1,1 +1,1 @@
-# sql_final_project
+# Final Sql Project/Ticketmaster Data Analyst.
